@@ -2,7 +2,11 @@
 
 ## Full-stack Web Developer
 
-I am a highly motivated programmer with a passion for developing creative solutions to streamline processes and enhance efficiency. I possess a strong interest in technology and leverage the power of frameworks to write clean, efficient code and create user-friendly interfaces. A lifelong learner with a voracious appetite for knowledge, I actively engage with diverse resources like books, novels, and more to broaden my perspective and fuel my intellectual curiosity. While I'm currently immersed in the academic world, I'm eager to venture into the professional realm. To bridge the gap, I'm actively honing my skills through personal projects. Notably, I spearheaded a project that utilized a variety of complex technologies.
+I am a highly motivated programmer with a passion for developing creative solutions to streamline processes and enhance efficiency. I possess a strong interest in technology and leverage the power of frameworks to write clean, efficient code and create user-friendly interfaces.
+
+A lifelong learner with a voracious appetite for knowledge, I actively engage with diverse resources like books, novels, and more to broaden my perspective and fuel my intellectual curiosity. While I'm currently immersed in the academic world, I'm eager to venture into the professional realm.
+
+To bridge the gap, I'm actively honing my skills through personal projects. Notably, I spearheaded a project that utilized a variety of complex technologies.
 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [MyPortfolio.](http://steven0git.github.io/StevenNDev_Portfolio/)

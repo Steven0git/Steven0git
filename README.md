@@ -4,10 +4,10 @@
 
 I am a highly motivated programmer with a passion for developing creative solutions to streamline processes and enhance efficiency. I possess a strong interest in technology and leverage the power of frameworks to write clean, efficient code and create user-friendly interfaces. A lifelong learner with a voracious appetite for knowledge, I actively engage with diverse resources like books, novels, and more to broaden my perspective and fuel my intellectual curiosity. While I'm currently immersed in the academic world, I'm eager to venture into the professional realm. To bridge the gap, I'm actively honing my skills through personal projects. Notably, I spearheaded a project that utilized a variety of complex technologies.
 
-* ð Based in Indonesia
-* ð¥ï¸ See my portfolio at [MyPortfolio.](http://steven0git.github.io/StevenNDev_Portfolio/)
-* âï¸ Contact me at [steven.dev.business@proton.me](mailto:steven.dev.business@proton.me)
-* ð§  Learning server-side technologies
+* 🌍  I'm based in Indonesian
+* 🖥️  See my portfolio at [MyPortfolio.](http://steven0git.github.io/StevenNDev_Portfolio/)
+* ✉️  You can contact me at [steven.dev.business@proton.me](mailto:steven.dev.business@proton.me)
+* 🧠  I'm learning A server side
 
 ### Skills 
 <p align="left">

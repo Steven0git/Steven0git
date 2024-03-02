@@ -10,7 +10,7 @@ To bridge the gap, I'm actively honing my skills through personal projects. Nota
 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [MyPortfolio.](http://steven0git.github.io/StevenNDev_Portfolio/)
-* ✉️  You can contact me at [steven.dev.business@proton.me](mailto:steven.dev.business@proton.me)
+* ✉️  You can contact me at [steve.dev.business@proton.me](mailto:steven.dev.business@proton.me)
 * 🧠  I'm learning A server side
 
 ### Skills 

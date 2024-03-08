@@ -4,10 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-Code 💻 warrior by day, knowledge devourer by night! I'm a programmer with a passion for building cool stuff that makes life easier. Think streamlining tasks with a sprinkle of creativity ✨. Fueled by endless curiosity (and maybe a little too much coffee), I love diving into new technologies 🤖 and frameworks👾. Building user-friendly interfaces that are as smooth as butter is my jam. ️ Currently, 💪I'm conquering the academic world, 🤔 but I'm itching to jump into the exciting world of professional coding. 🍴 To prepare for liftoff, I'm constantly building personal projects (one recently involved some seriously awesome tech!) 😜. Want to chat about code, grab a coffee, or recommend your favorite tech book? Hit me up! 👌
+*Code 💻 warrior by day, knowledge devourer by night!* I'm a programmer with a passion for building cool stuff that makes life easier. 
+
+Think streamlining tasks with a sprinkle of creativity ✨. 
+Fueled by endless curiosity (and maybe a little too much coffee), I love diving into new technologies 🤖 and frameworks👾. Building user-friendly interfaces that are as smooth as butter is my jam. ️ 
+
+Currently, 💪I'm conquering the academic world, 🤔 but I'm itching to jump into the exciting world of professional coding. 
+
+To prepare for liftoff, I'm constantly building personal projects (one recently involved some seriously awesome tech!) 😜. 
+
+*Want to chat about code, grab a coffee, or recommend your favorite tech book? Hit me up! 👌*
 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [Here click me](http://steven0git.github.io/StevenNDev_Portfolio/)
+* 🤖  Another information at [Portfolios](https://folll.io/StevenNDev)
 * ✉️  You can contact me at [steve.dev.business@proton.me](mailto:steve.dev.business@proton.me)
 * 🧠  I'm learning Vite.js, Vue.js, and Backend side
 * 🤝  I'm open to collaborating on an app that makes programmers not cry due to its complexity in coding, so we don't drink our tears.

@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven Nugraha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Steven Nugraha**
 ======================================================================================================================================
 
 Full-stack Web Developer
@@ -18,7 +18,7 @@ To prepare for liftoff, I'm constantly building personal projects (one recently 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [Here click me](http://steven0git.github.io/StevenNDev_Portfolio/)
 * 🤖  Another information at [Portfolios](https://folll.io/StevenNDev)
-* ✉️  You can contact me at [steve.dev.business@proton.me](mailto:steve.dev.business@proton.me)
+* ✉️  You can contact me at [click me](mailto:steve.dev.business@proton.me)
 * 🧠  I'm learning Vite.js, Vue.js, and Backend side
 * 🤝  I'm open to collaborating on an app that makes programmers not cry due to its complexity in coding, so we don't drink our tears.
 * ⚡  I like coffee ☕, not tears 😭, despite how difficult it is to code 💻.

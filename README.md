@@ -18,7 +18,7 @@ To prepare for liftoff, I'm constantly building personal projects (one recently 
 * 🌍  I'm based in Indonesian
 * 🖥️  See my portfolio at [Here click me](https://stevencoders-portfolio.netlify.app/)
 * 🤖  Another information at [Portfolios](https://folll.io/StevenNDev)
-* ✉️  You can contact me at [steve.dev.business@proton.me](mailto:steve.dev.business@proton.me)
+* ✉️  You can contact me at [master.steven.dev@hotmail.com](mailto:master.steven.dev@hotmail.com)
 * 🧠  I'm learning Vite.js, Vue.js, and Backend side
 * 🤝  I'm open to collaborating on an app that makes programmers not cry due to its complexity in coding, so we don't drink our tears.
 * ⚡  I like coffee ☕, not tears 😭, despite how difficult it is to code 💻.

@@ -16,7 +16,7 @@ To prepare for liftoff, I'm constantly building personal projects (one recently 
 *Want to chat about code, grab a coffee, or recommend your favorite tech book? Hit me up! 👌*
 
 * 🌍  I'm based in Indonesian
-* 🖥️  See my portfolio at [Here click me](http://steven0git.github.io/StevenNDev_Portfolio/)
+* 🖥️  See my portfolio at [Here click me](https://stevencoders-portfolio.netlify.app/)
 * 🤖  Another information at [Portfolios](https://folll.io/StevenNDev)
 * ✉️  You can contact me at [steve.dev.business@proton.me](mailto:steve.dev.business@proton.me)
 * 🧠  I'm learning Vite.js, Vue.js, and Backend side
